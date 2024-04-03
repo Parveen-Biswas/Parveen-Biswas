@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Parveen Biswas
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Python
-- 📫 How to reach me by just typing on browser @parveenbiswas8100 on github
+- 📫 How to reach me by just typing on browser @Parveen-Biswas on github
 
 <!---<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="40dp" height="40dp"><a>, I'm <a href="https://github.com/Mr-Parveen"  target="blank"> Parveen Biswas</a> !</h1>--->
 <br>
